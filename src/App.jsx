@@ -13,11 +13,8 @@ export default function App(){
       <>
 
       <MiniDrawer/>
-
         <Container >
-
           <Home/>
-      
          </Container>
       </>
           
